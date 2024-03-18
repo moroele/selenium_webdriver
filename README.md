@@ -1,2 +1,2 @@
 # selenium_webdriver
-test project for course
+My test project for course.
